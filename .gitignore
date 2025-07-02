@@ -1,0 +1,11 @@
+# Ignore Maven target directory
+target/
+
+# Ignore IDE-specific files (optional but recommended)
+*.iml
+.idea/
+*.class
+*.log
+
+# macOS system files
+.DS_Store
